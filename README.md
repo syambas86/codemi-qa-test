@@ -14,5 +14,13 @@ terdapat 4 tes yang terdiri dari 2 kategori tes :
 ## Run Test
 - Di dalam terminal atau command prompt, masukkan perintah : ```npx wdio run wdio.conf.js```
 
+https://user-images.githubusercontent.com/118735944/203709785-1894bf34-541b-45c6-9071-114f61ebc67a.mp4
+
+
+
+
 ## Generate Report
 - Di dalam terminal atau command prompt, masukkan perintah : ```allure generate allure-results/ --clean && allure open```
+
+
+

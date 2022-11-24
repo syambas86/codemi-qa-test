@@ -23,4 +23,8 @@ https://user-images.githubusercontent.com/118735944/203709785-1894bf34-541b-45c6
 - Di dalam terminal atau command prompt, masukkan perintah : ```allure generate allure-results/ --clean && allure open```
 
 
+https://user-images.githubusercontent.com/118735944/203711596-c852d680-3936-426b-8ddf-0de128c4a53d.mov
+
+
+
 

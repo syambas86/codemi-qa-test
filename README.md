@@ -1,5 +1,5 @@
 # codemi-qa-test
-## Install.
+## Install
 - Pertama buka terminal atau command prompt
 - Download repository dengan cara memasukkan perintah ini di dalam terminal atau command prompt
   ```git clone https://github.com/syambas86/codemi-qa-test.git```
@@ -8,8 +8,8 @@
 
 ## Test Plan
 terdapat 4 tes yang terdiri dari 2 kategori tes :
-- tes log in dan log out
-- tes log in dan post text yang disertai image
+- Test log in dan log out
+- Test log in dan post text yang disertai image
 
 ## Run Test
 - Di dalam terminal atau command prompt, masukkan perintah : ```npx wdio run wdio.conf.js```

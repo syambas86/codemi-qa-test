@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Nov 24 11:34:46 WIB 2022","Thu Nov 24 11:34:55 WIB 2022","9557","","Twitter Codemi Test","","Twitter Codemi Test","should post text and image","should post text and image",""
+"passed","Thu Nov 24 11:34:39 WIB 2022","Thu Nov 24 11:34:46 WIB 2022","6542","","Twitter Codemi Test","","Twitter Codemi Test","should login with valid credentials","should login with valid credentials",""
+"passed","Thu Nov 24 11:34:39 WIB 2022","Thu Nov 24 11:34:45 WIB 2022","6218","","Twitter Codemi Test","","Twitter Codemi Test","should login with valid credentials and log out","should login with valid credentials and log out",""
+"passed","Thu Nov 24 11:34:45 WIB 2022","Thu Nov 24 11:34:48 WIB 2022","3179","","Twitter Codemi Test","","Twitter Codemi Test","should log out","should log out",""

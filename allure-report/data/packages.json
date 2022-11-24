@@ -1,0 +1,61 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Twitter Codemi Test",
+    "children" : [ {
+      "name" : "should login with valid credentials and log out",
+      "uid" : "52a2529407080465",
+      "parentUid" : "111f40155f1daf783f107bfff20f6d95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669264479573,
+        "stop" : 1669264485791,
+        "duration" : 6218
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-107.0.5304.110" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "8e9137be591eec6f",
+      "parentUid" : "111f40155f1daf783f107bfff20f6d95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669264479643,
+        "stop" : 1669264486185,
+        "duration" : 6542
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-107.0.5304.110" ]
+    }, {
+      "name" : "should log out",
+      "uid" : "cd8b55e70d9a70b2",
+      "parentUid" : "111f40155f1daf783f107bfff20f6d95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669264485792,
+        "stop" : 1669264488971,
+        "duration" : 3179
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-107.0.5304.110" ]
+    }, {
+      "name" : "should post text and image",
+      "uid" : "2d1f3c0a1d443ae8",
+      "parentUid" : "111f40155f1daf783f107bfff20f6d95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1669264486186,
+        "stop" : 1669264495743,
+        "duration" : 9557
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-107.0.5304.110" ]
+    } ],
+    "uid" : "111f40155f1daf783f107bfff20f6d95"
+  } ]
+}

@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "[data-testid=AccountSwitcher_Logout_Button] > div.css-1dbjc4n.r-16y2uox.r-1wbh5a2 > div > span"
+}

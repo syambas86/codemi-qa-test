@@ -1,0 +1,41 @@
+[ {
+  "uid" : "2d1f3c0a1d443ae8",
+  "name" : "should post text and image",
+  "time" : {
+    "start" : 1669264486186,
+    "stop" : 1669264495743,
+    "duration" : 9557
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e9137be591eec6f",
+  "name" : "should login with valid credentials",
+  "time" : {
+    "start" : 1669264479643,
+    "stop" : 1669264486185,
+    "duration" : 6542
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52a2529407080465",
+  "name" : "should login with valid credentials and log out",
+  "time" : {
+    "start" : 1669264479573,
+    "stop" : 1669264485791,
+    "duration" : 6218
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd8b55e70d9a70b2",
+  "name" : "should log out",
+  "time" : {
+    "start" : 1669264485792,
+    "stop" : 1669264488971,
+    "duration" : 3179
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
